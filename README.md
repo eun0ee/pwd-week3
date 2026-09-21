@@ -6,10 +6,8 @@ HTML, CSS, TypeScript를 사용하여 구현한 웹 기반 계산기 프로젝�
 
 ## 1. 프로젝트 배포 및 저장소 링크
 
-- **GitHub Pages (배포 주소):** `https://본인아이디.github.io/pwd-week3/`
-- **GitHub Repository:** `https://github.com/본인아이디/pwd-week3`
-
-> *(본인 GitHub 계정명으로 변경하여 사용하세요.)*
+- **GitHub Pages (배포 주소):** `https://eun0ee.github.io/pwd-week3/`
+- **GitHub Repository:** `https://github.com/eun0ee/pwd-week3`
 
 ---
 
